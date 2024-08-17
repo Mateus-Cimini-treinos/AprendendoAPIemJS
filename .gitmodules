@@ -1,0 +1,12 @@
+[submodule "aprendendo-a-usar-APIs"]
+	path = aprendendo-a-usar-APIs
+	url = https://github.com/Mateus-Cimini-treinos/aprendendo-a-usar-APIs.git
+[submodule "aprendendo-a-usar-APIs02"]
+	path = aprendendo-a-usar-APIs02
+	url = https://github.com/Mateus-Cimini-treinos/aprendendo-a-usar-APIs02.git
+[submodule "aprendendo-a-usarAPIs03"]
+	path = aprendendo-a-usarAPIs03
+	url = https://github.com/Mateus-Cimini-treinos/aprendendo-a-usarAPIs03.git
+[submodule "aprendendo-a-usar-APIs04"]
+	path = aprendendo-a-usar-APIs04
+	url = https://github.com/Mateus-Cimini-treinos/aprendendo-a-usar-APIs04.git
